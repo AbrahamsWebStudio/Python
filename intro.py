@@ -8,5 +8,5 @@ mycursor = mydb.cursor()
 mycursor.execute("Select * from genixdb.stvrt3d")
 
 
-for i in mycursor:
-    print(i)
+for iE in mycursor:
+    print(iE)
