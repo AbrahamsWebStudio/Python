@@ -10,4 +10,3 @@ mycursor.execute("Select * from genixdb.stvrt3d")
 
 for iE in mycursor:
     print(f"This is the answer to the expression:{iE}")
-    
